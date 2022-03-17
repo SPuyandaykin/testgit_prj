@@ -2,3 +2,4 @@ text1
 new string
 user1 from branch 'main'
 
+string rebase
